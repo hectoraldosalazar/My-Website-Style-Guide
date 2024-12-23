@@ -1,0 +1,157 @@
+body{
+   font-family: "Roboto", serif;
+}
+
+h1 {
+ margin: 0 auto;
+ width: 700px;
+ padding-bottom: 10px;
+ padding-top: 20px;
+ padding-left: 20px;
+
+}
+
+h2{
+  margin-left: 20px;
+}
+
+
+.p-heading{
+  margin-left: 20px;
+}
+
+.container-one{
+  border: 5px solid grey;
+  margin: 0 auto;
+  width: 700px;
+  height: 400px;
+ 
+}
+
+.container-two{
+  margin-top: 100px;
+  border: 5px solid grey;
+  width: 700px;
+  height: 900;
+  display: inline-block;
+}
+
+.container-three{
+  margin-top: 80px;
+  margin-bottom: 80px;
+  border: 5px solid grey;
+  width: 700px;
+  height: 900;
+
+
+}
+
+.color-container{
+   display: inline-block;
+}
+
+
+.color-cool-blue{
+  color: white;
+  background-color: #2d5dcc;
+  width: 200px;
+  height:100px;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+  float: left;
+
+}
+
+.color-pink{
+  color: white;
+  background-color: #d957d9;
+  width: 200px;
+  height:100px;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+  float: left;
+
+}
+
+.color-mint-green{
+  color: white;
+  background-color: #4fe0b0;
+  width: 200px;
+  height:100px;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+  float:left;
+
+}
+
+.color-beige{
+  color: white;
+  background-color: #efd9ca;
+  width: 200px;
+  height:100px;
+  padding: 5px;
+  text-align: center;
+  margin-top: 180px;
+  margin-left: 5px;
+}
+
+.title{
+  text-decoration: underline;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 20px;
+}
+
+.source-code-pro{
+  float:left;
+  padding-left: 10px;
+}
+
+.nunito-sans{
+  float: left;
+  padding-left: 10px;
+}
+
+.poppins{
+  padding-top: 200px;
+  padding-left: 10px;
+
+}
+
+.source-code-pro-normal{
+      font-style: normal;
+}
+
+.source-code-pro-bold{
+  font-weight: 700;
+}
+
+.source-code-pro-italic{
+  font-style: italic;
+}
+
+.nunito-normal{
+  font-style: normal;
+}
+.nunito-bold{
+  font-weight: 700;
+}
+
+.nunito-italic{
+  font-style: italic;
+}
+
+.poppins-normal{
+  font-style: normal;
+}
+
+.poppins-bold{
+  font-weight: 700;
+}
+
+.poppins-italic{
+  font-style: italic;
+}
